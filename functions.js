@@ -1,3 +1,4 @@
+//question 2
 // Create a list function. It will take one argument (an array of clients) and return an HTML string. The string will contain a list item template (shown below) for each client in the array. The map() method with an arrow function should be used.
 
 // <!-- List Item Template -->
